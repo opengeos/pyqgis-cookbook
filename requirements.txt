@@ -1,0 +1,2 @@
+# Requirements for RST to Markdown/Notebook conversion
+nbformat>=5.7
